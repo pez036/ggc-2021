@@ -101,6 +101,7 @@ crashlytics-build.properties
 .DS_Store*
 Thumbs.db
 Desktop.ini
+Logs/
 
 # 610自定义
 *_610test*
